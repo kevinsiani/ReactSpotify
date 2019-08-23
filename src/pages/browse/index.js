@@ -6,25 +6,25 @@ const Browse = () => (
     <Title>Navegar</Title>
 
     <List>
-      <Playlist href="">
+      <Playlist to="/playlist/1">
         <img src="https://www.designformusic.com/wp-content/uploads/2018/07/Digital-World-album-cover-design.jpg" alt="Playlist" />
         <strong>Rock dos bons</strong>
         <p>Relaxe enquanto você programa ouvindo um sonzão</p>
       </Playlist>
 
-      <Playlist href="">
+      <Playlist to="/playlist/1">
         <img src="https://www.designformusic.com/wp-content/uploads/2018/07/Digital-World-album-cover-design.jpg" alt="Playlist" />
         <strong>Rock dos bons</strong>
         <p>Relaxe enquanto você programa ouvindo um sonzão</p>
       </Playlist>
 
-      <Playlist href="">
+      <Playlist to="/playlist/1">
         <img src="https://www.designformusic.com/wp-content/uploads/2018/07/Digital-World-album-cover-design.jpg" alt="Playlist" />
         <strong>Rock dos bons</strong>
         <p>Relaxe enquanto você programa ouvindo um sonzão</p>
       </Playlist>
 
-      <Playlist href="">
+      <Playlist to="/playlist/1">
         <img src="https://www.designformusic.com/wp-content/uploads/2018/07/Digital-World-album-cover-design.jpg" alt="Playlist" />
         <strong>Rock dos bons</strong>
         <p>Relaxe enquanto você programa ouvindo um sonzão</p>
